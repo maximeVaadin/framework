@@ -501,6 +501,6 @@ FileDropTarget<Label> dropTarget = new FileDropTarget<>(dropArea, event -> {
                 }
             });
         }
-    }
+    });
 });
 ----
