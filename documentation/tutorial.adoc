@@ -39,9 +39,7 @@ subnav:
 [[framework.tutorial]]
 = Vaadin Tutorial
 
-This tutorial gives you an overview of how you can use https://vaadin.com/framework[Vaadin Framework] to build single-page web UIs for your Java application.
-All you need to start with it is JDK 8 and an https://en.wikipedia.org/wiki/Integrated_development_environment[IDE], such as Eclipse.
-While this tutorial is written for Eclipse users, you can use your IDE of choice.
+Our Vaadin tutorial will give you an overview of how you can use our https://vaadin.com/framework[framework] to build singe page web Uis for your application with only JDK 8 and an https://en.wikipedia.org/wiki/Integrated_development_environment[IDE].
 No extensive knowledge of Java is needed, only basic programming skills are required.
 
 [[framework.tutorial.overview]]
